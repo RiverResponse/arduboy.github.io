@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "arduboy",
-      "maintainer": "Arduboy Team, fixed by River",
+      "maintainer": "River",
       "websiteURL": "https://www.arduboy.com/",
       "email": "contact@arduboy.com",
       "help": {
